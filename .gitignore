@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+pkg/
+src/github.com/
+src/golang.org/
+src/google.golang.org/
+src/gopkg.in/
+src/test.go
+src/config/auth.go
+
